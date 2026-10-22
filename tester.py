@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# ⚡ ULTIMATE PENETRATION TESTING TOOL - 900 TESTS ⚡
-# Author: Security Expert | Version: 1.0.0
-# WARNING: FOR AUTHORIZED TESTING ONLY!
-
 import requests
 import time
 import re
